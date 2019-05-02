@@ -1,0 +1,9 @@
+geopandas
+geopy
+jupyter
+shapely
+Pillow
+BeautifulSoup4
+nltk
+ipyleaflet
+geojson
