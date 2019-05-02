@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/HERE_workshop_pycon2019/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/HERE_workshop_pycon2019/master/?urlpath=lab)
 ***
 # Getting to the Point with Geospatial
 
