@@ -1,4 +1,5 @@
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/HERE_workshop_pycon2019/master)
+***
 # Getting to the Point with Geospatial
 
 We'll be going through a series of demos and notebooks to help you get
